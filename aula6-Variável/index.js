@@ -26,6 +26,8 @@ Caso seja necessário Utilizando CamelCase (começar o palavra com letra maiuscu
 Variáveis com letras maiuscula e minusculas são entendidas de forma diferente - Case-sensitive - REGRA
     Ex: let nomecliente = 'Luiz'
         let nomeCliente = 'Otávio'
+Não podemos redeclarar variáveis com let
+NÃO UTILIZE VAR, UTILIZE LET
 */
 let n = 'João'
 console.log(n)
