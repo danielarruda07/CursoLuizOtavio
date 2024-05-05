@@ -9,8 +9,10 @@ let nomeAluno //undefined (não aponta pra lugar nenhum da memória-nulo) pois a
 nomeAluno = 10
 let sobrenomeAlun = null //nulo (não aponta pra lugar nenhum da memória-nulo), aqui vc está deixando claro que a variável é nula de propósito.
 
-const aprovado = true
+const aprovado = true //boolean = true, false - Sempre que se usa essa função será feito algum desvio funcional, muda o fluxo, se false gerará uma coisa se true gerará outra
 
+
+console.log(typeof aprovado, aprovado)
 
 console.log(nome)
 console.log(nome1)
