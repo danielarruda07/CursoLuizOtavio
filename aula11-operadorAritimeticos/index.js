@@ -59,3 +59,6 @@ contador03 *=2
 contador03 *=2
 contador03 *=2
 console.log(contador03)
+
+
+s
