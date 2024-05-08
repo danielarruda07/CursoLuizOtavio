@@ -38,6 +38,12 @@ console.log(nomeCompletoDoCliente)
 
 let nomecliente = 'Luiz'
 let nomeCliente = 'Otávio'
-console.log(nomecliente, nomeCliente)
+console.log(nomecliente)
+
+var daniel01 = 'daniel'
+var daniel01 = 'ivan'
+var daniel01 = 'felipe'
+console.log(daniel01)
+
 
 

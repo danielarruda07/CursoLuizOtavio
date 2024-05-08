@@ -19,6 +19,5 @@ varB = varC
 varC = varATemp
 
 
-//Maneira Correta - Atual sem precisar criar uma nova variável
-[varA, varB, varC = [1,2,3]]
+
 

@@ -7,16 +7,18 @@
  * 
  * 
  */
-//Exemplo de soma
+console.log('Exemplo de soma')
 const num1 = 5
 const num2 = 10
 console.log (num1 + num2)
+console.log (num1, num2)
 
-//Exemplo de Concatenação
+console.log('Exemplo de Concatenação') 
 const num3 = '5'
 const num4 = 10
 console.log (num3+num4)
 
+console.log ('calculo ivan')
 console.log (num1 ** num2) // 5 elevado a 10
 
 //Exemplo utilizando %, onde mostra o resto da divisão, quando a divisão for inteiro o resultado será 0
@@ -24,7 +26,7 @@ const num5 = 10
 const num6 = 3
 console.log (num5 % num6)
 
-//Exemplo com varios número e utilizando parêntese para que tenha prioripade no calculoa
+//Exemplo com varios número e utilizando parêntese para que tenha prioripade no calculos
 console.log((num3 + num1) * num5)
 
 //exemplo para incrementar a variáveis com operador de incremento ++, só incrementa 1 em 1
@@ -59,6 +61,3 @@ contador03 *=2
 contador03 *=2
 contador03 *=2
 console.log(contador03)
-
-
-s
