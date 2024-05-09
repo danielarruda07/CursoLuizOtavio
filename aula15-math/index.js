@@ -17,3 +17,5 @@ console.log(num6)
 console.log('Pegar raiz quadrada')
 let num23 = 16
 console.log(num23 ** 0.5)
+
+
